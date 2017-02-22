@@ -1,7 +1,16 @@
+/*.row-no-padding [class*="col-"]{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}*/
+
 header h1 {
-    
+
 }
 
 #menu ul li {
 
+}
+
+li {
+    list-style: none;
 }
