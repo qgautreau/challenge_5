@@ -1,0 +1,11 @@
+header h1 {
+    background-color: red;
+}
+
+#menu ul li {
+    background-color: green;
+}
+
+header article {
+    background-color: blue;
+}
