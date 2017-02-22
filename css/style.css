@@ -3,12 +3,13 @@
     padding-right: 0 !important;
 }*/
 
-header h1 {
-
+body {
+    background-color: black;
+    color: white;
 }
-
-#menu ul li {
-
+main section:nth-child(n+1){
+    background-color: white;
+    color: black;
 }
 
 li {
